@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cardozo1w/Cardozo1w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Hi,%20I'm%20Oscar%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
-Here are some ideas to get you started:
+**Freelance Software Developer · Building solutions for real businesses**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=Cardozo1w&color=1f6feb&style=flat)](https://github.com/Cardozo1w)
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+Freelance developer focused on building custom software for small and medium businesses — from POS systems to web apps. I care about clean UIs, practical features, and long-term client relationships.
+
+---
+
+### 🛠️ Tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏥 **SaludPro** | Healthcare management system for clinics and medical practices | TypeScript · Node.js · MySQL |
+| 🧾 **Asit POS** | Point-of-sale system tailored for hardware stores and retail | Electron · JavaScript · React |
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cardozo1w&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Cardozo1w&theme=github-dark-blue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardozo1w&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
