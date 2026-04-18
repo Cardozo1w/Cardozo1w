@@ -1,10 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Hi,%20I'm%20Oscar%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20Oscar%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
 **Freelance Software Developer · Building solutions for real businesses**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Cardozo1w&color=1f6feb&style=flat)](https://github.com/Cardozo1w)
 
 </div>
 
@@ -26,6 +24,12 @@ Freelance developer focused on building custom software for small and medium bus
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🤖 AI tools I work with
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
