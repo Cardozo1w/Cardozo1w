@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About me
 
-Freelance developer focused on building custom software solutions across all scales — from local businesses to large enterprises. — from POS systems to web apps. I care about clean UIs, practical features, and long-term client relationships.
+Software developer focused on building custom software solutions across all scales — from local businesses to large enterprises. — from POS systems to web apps. I care about clean UIs, practical features, and long-term client relationships.
 
 ---
 
